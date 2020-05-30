@@ -19,6 +19,8 @@ router.post('/notes', (req, res) => {
   });
 
 
+ 
+
   module.exports = router;
 
   //look up  array filter the notes taht dont have the delete id, write a new array after deleting
