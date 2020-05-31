@@ -3,16 +3,16 @@
     {
       "title": "Test Title",
       "text": "Test text",
-      "id": "test_id"
+      "id": "0"
     },
     {
-      "title": "sdfsa",
-      "text": "asdfasdf",
+      "title": "Test2",
+      "text": "Test 2",
       "id": "1"
     },
     {
-      "title": "tst 2",
-      "text": "tst2",
+      "title": "tst 3",
+      "text": "tst 3",
       "id": "2"
     }
   ]
